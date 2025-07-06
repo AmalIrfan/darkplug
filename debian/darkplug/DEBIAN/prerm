@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# set -e # allowed to fail
+systemctl stop darkplug.service
+systemctl disable darkplug.service

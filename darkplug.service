@@ -1,0 +1,10 @@
+[Unit]
+Description=Set brightness to 0 and battery threshold to 80.
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/darkplug.sh
+
+[Install]
+WantedBy=multi-user.target

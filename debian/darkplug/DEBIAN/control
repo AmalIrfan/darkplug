@@ -1,0 +1,7 @@
+Package: darkplug
+Version: 0.0
+Section: misc 
+Priority: Optional
+Architecture: all
+Maintainer: Amal Irfan
+Description: Set brightness to 0 and battery threshold to 80.
