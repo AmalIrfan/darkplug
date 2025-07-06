@@ -1,6 +1,6 @@
 Package: darkplug
-Version: 0.0
-Section: misc 
+Version: 1.0
+Section: misc
 Priority: Optional
 Architecture: all
 Maintainer: Amal Irfan
